@@ -1,4 +1,7 @@
+// polyfill import for codingame helpers
 import { readline } from '../pollyfil/readline';
+
+// Solution starts here
 
 type mountain = {
     index: number,
