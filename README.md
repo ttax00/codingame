@@ -1,7 +1,7 @@
 # codingame solutions
 
 ### Rust
-Check it out [here](./rust/README.md)
+Check it out [here](./rust)
 ### Typescript
-Check it out [here](./typescript/README.md)
+Check it out [here](./typescript)
 
