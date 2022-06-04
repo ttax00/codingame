@@ -1,0 +1,5 @@
+# ignore yarn nodes
+node_modules
+
+# ignode build folder
+dist
