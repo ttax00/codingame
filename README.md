@@ -18,6 +18,7 @@
 | Logic gates                            | [Rust](rust/classic-puzzle-easy/logic-gates.rs)                            |
 | Marse lander EP1                       | [Rust](rust/classic-puzzle-easy/mars-lander-episode-1.rs)                  |
 | MIME type                              | [Rust](rust/classic-puzzle-easy/mime-type.rs)                              |
+| Pirate's treasure                      | [Rust](rust/classic-puzzle-easy/pirates-treasure.rs                        |
 | Power of thor EP1                      | [Rust](rust/classic-puzzle-easy/power-of-thor-episode-1.rs)                |
 | Temperatures                           | [Rust](rust/classic-puzzle-easy/temperatures.rs)                           |
 | The descents                           | [Typescript](typescript/src/classic-puzzle-easy/the-descent.ts)            |
