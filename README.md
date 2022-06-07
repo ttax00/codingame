@@ -22,6 +22,7 @@
 | Power of thor EP1                      | [Rust](rust/classic-puzzle-easy/power-of-thor-episode-1.rs)                |
 | Temperatures                           | [Rust](rust/classic-puzzle-easy/temperatures.rs)                           |
 | The descents                           | [Typescript](typescript/src/classic-puzzle-easy/the-descent.ts)            |
+| The darts                              | [Rust](rust/classic-puzzle-easy/the-dart-101.rs)                           |
 
 ### [Normal](https://www.codingame.com/training/medium)
 | Problem                | Solution                                                           |
