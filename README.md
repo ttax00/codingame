@@ -14,6 +14,7 @@
 | Defibrillators                         | [Rust](/rust/classic-puzzle-easy/defibrillators.rs)                        |
 | Dungeons and Maps                      | [Rust](rust/classic-puzzle-easy/dungeons-and-maps.rs)                      |
 | Equivalent resistance circuit building | [Rust](rust/classic-puzzle-easy/equivalent-resistance-circuit-building.rs) |
+| Firecontrol                            | [Rust](rust/classic-puzzle-easy/firecontrol.rs                             |
 | Horse racing duels                     | [Rust](rust/classic-puzzle-easy/horse-racing-duels.rs)                     |
 | Logic gates                            | [Rust](rust/classic-puzzle-easy/logic-gates.rs)                            |
 | Marse lander EP1                       | [Rust](rust/classic-puzzle-easy/mars-lander-episode-1.rs)                  |
