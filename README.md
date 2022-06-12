@@ -26,6 +26,7 @@
 | Temperatures                           | [Rust](rust/classic-puzzle-easy/temperatures.rs)                           |
 | The descents                           | [Typescript](typescript/src/classic-puzzle-easy/the-descent.ts)            |
 | The darts                              | [Rust](rust/classic-puzzle-easy/the-dart-101.rs)                           |
+| The decents                            | [Rust](rust/classic-puzzle-easy/the-decents.rs)                            |
 | The river I                            | [Rust](rust/classic-puzzle-easy/the-river-i.rs)                            |
 | The river II                           | [Rust](rust/classic-puzzle-easy/the-river-ii.rs)                           |
 ### [Normal](https://www.codingame.com/training/medium)
