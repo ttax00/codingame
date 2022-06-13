@@ -39,4 +39,6 @@
 ### [Hard](https://www.codingame.com/training/hard)
 | Problem           | Solution                                                    |
 | ----------------- | ----------------------------------------------------------- |
+| Gerrymandering    | [Rust](rust/classic-puzzle-hard/gerrymandering.rs)          |
 | Power of thor EP2 | [Rust](rust/classic-puzzle-hard/power-of-thor-episode-2.rs) |
+
