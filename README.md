@@ -10,6 +10,7 @@
 | -------------------------------------- | -------------------------------------------------------------------------- |
 | 1D Spreadsheet                         | [Rust](/rust/classic-puzzle-easy/1d-spreadsheet.rs)                        |
 | Add'em up                              | [Rust](rust/classic-puzzle-easy/addem-up.rs)                               |
+| Balanced ternary computer encode       | [Rust](rust/classic-puzzle-easy/balanced-ternary-computer-encode.rs)       |
 | Bank Robbers                           | [Rust](/rust/classic-puzzle-easy/bank-robbers.rs)                          |
 | Blowing Fuse                           | [Rust](/rust/classic-puzzle-easy/blowing-fuse.rs)                          |
 | Defibrillators                         | [Rust](/rust/classic-puzzle-easy/defibrillators.rs)                        |
