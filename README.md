@@ -18,7 +18,7 @@
 | Dungeons and Maps                      | [Rust](rust/classic-puzzle-easy/dungeons-and-maps.rs)                      |
 | Equivalent resistance circuit building | [Rust](rust/classic-puzzle-easy/equivalent-resistance-circuit-building.rs) |
 | Firecontrol                            | [Rust](rust/classic-puzzle-easy/firecontrol.rs)                            |
-| Ghost legs                             | [Rust](rust/classic-puzzle-easy/ghost-legs.rs                              |
+| Ghost legs                             | [Rust](rust/classic-puzzle-easy/ghost-legs.rs)                             |
 | Horse racing duels                     | [Rust](rust/classic-puzzle-easy/horse-racing-duels.rs)                     |
 | How Time Flies                         | [Rust](rust/classic-puzzle-easy/how-time-flies.rs)                         |
 | Logic gates                            | [Rust](rust/classic-puzzle-easy/logic-gates.rs)                            |
@@ -43,6 +43,7 @@
 ### [Hard](https://www.codingame.com/training/hard)
 | Problem           | Solution                                                    |
 | ----------------- | ----------------------------------------------------------- |
+| Genome sequencing | [Rust](rust/classic-puzzle-hard/genome-sequencing.rs)       |
 | Gerrymandering    | [Rust](rust/classic-puzzle-hard/gerrymandering.rs)          |
 | Power of thor EP2 | [Rust](rust/classic-puzzle-hard/power-of-thor-episode-2.rs) |
 
