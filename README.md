@@ -21,6 +21,7 @@
 | Ghost legs                             | [Rust](rust/classic-puzzle-easy/ghost-legs.rs)                             |
 | Horse racing duels                     | [Rust](rust/classic-puzzle-easy/horse-racing-duels.rs)                     |
 | How Time Flies                         | [Rust](rust/classic-puzzle-easy/how-time-flies.rs)                         |
+| Is that a possible word EP1            | [Rust](rust/classic-puzzle-easy/is-that-a-possible-word-ep1.rs)            |
 | Logic gates                            | [Rust](rust/classic-puzzle-easy/logic-gates.rs)                            |
 | Marse lander EP1                       | [Rust](rust/classic-puzzle-easy/mars-lander-episode-1.rs)                  |
 | MIME type                              | [Rust](rust/classic-puzzle-easy/mime-type.rs)                              |
