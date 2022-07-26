@@ -41,6 +41,7 @@
 | Death first search EP1 | [Rust](rust/classic-puzzle-normal/death-first-search-episode-1.rs) |
 | Don't panic EP1        | [Rust](rust/classic-puzzle-normal/don't-panic-episode-1.rs)        |
 | Scrabble               | [Typescript](typescript/src/classic-puzzle-normal/scrabble.ts)     |
+| Stock exchange losses  | [Rust](rust/classic-puzzle-normal/stock-exchange-losses.rs)        |
 | War                    | [Rust](rust/classic-puzzle-normal/war.rs)                          |
 ### [Hard](https://www.codingame.com/training/hard)
 | Problem           | Solution                                                    |
