@@ -37,13 +37,14 @@
 | The river I                            | [Rust](rust/classic-puzzle-easy/the-river-i.rs)                            |
 | The river II                           | [Rust](rust/classic-puzzle-easy/the-river-ii.rs)                           |
 ### [Normal](https://www.codingame.com/training/medium)
-| Problem                | Solution                                                           |
-| ---------------------- | ------------------------------------------------------------------ |
-| Death first search EP1 | [Rust](rust/classic-puzzle-normal/death-first-search-episode-1.rs) |
-| Don't panic EP1        | [Rust](rust/classic-puzzle-normal/don't-panic-episode-1.rs)        |
-| Scrabble               | [Typescript](typescript/src/classic-puzzle-normal/scrabble.ts)     |
-| Stock exchange losses  | [Rust](rust/classic-puzzle-normal/stock-exchange-losses.rs)        |
-| War                    | [Rust](rust/classic-puzzle-normal/war.rs)                          |
+| Problem                   | Solution                                                              |
+| ------------------------- | --------------------------------------------------------------------- |
+| Death first search EP1    | [Rust](rust/classic-puzzle-normal/death-first-search-episode-1.rs)    |
+| Don't panic EP1           | [Rust](rust/classic-puzzle-normal/don't-panic-episode-1.rs)           |
+| Shadows of the knight EP1 | [Rust](rust/classic-puzzle-normal/shadows-of-the-knight-episode-1.rs) |
+| Scrabble                  | [Typescript](typescript/src/classic-puzzle-normal/scrabble.ts)        |
+| Stock exchange losses     | [Rust](rust/classic-puzzle-normal/stock-exchange-losses.rs)           |
+| War                       | [Rust](rust/classic-puzzle-normal/war.rs)                             |
 ### [Hard](https://www.codingame.com/training/hard)
 | Problem           | Solution                                                    |
 | ----------------- | ----------------------------------------------------------- |
