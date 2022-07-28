@@ -30,6 +30,7 @@
 | Power of thor EP1                      | [Rust](rust/classic-puzzle-easy/power-of-thor-episode-1.rs)                |
 | Random walk                            | [Rust](rust/classic-puzzle-easy/random-walk.rs)                            |
 | Robot show                             | [Rust](rust/classic-puzzle-easy/robot-show.rs)                             |
+| Rock paper scissors lizard spock       | [Rust](rust/classic-puzzle-easy/rock-paper-scissors-lizard-spock.rs)       |
 | Temperatures                           | [Rust](rust/classic-puzzle-easy/temperatures.rs)                           |
 | The descents                           | [Typescript](typescript/src/classic-puzzle-easy/the-descent.ts)            |
 | The darts                              | [Rust](rust/classic-puzzle-easy/the-dart-101.rs)                           |
