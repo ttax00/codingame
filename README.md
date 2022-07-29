@@ -29,6 +29,7 @@
 | Pirate's treasure                      | [Rust](rust/classic-puzzle-easy/pirates-treasure.rs)                       |
 | Power of thor EP1                      | [Rust](rust/classic-puzzle-easy/power-of-thor-episode-1.rs)                |
 | Random walk                            | [Rust](rust/classic-puzzle-easy/random-walk.rs)                            |
+| Retro typewriter art                   | [Rust](rust/classic-puzzle-easy/retro-typewriter-art.rs)                   |
 | Robot show                             | [Rust](rust/classic-puzzle-easy/robot-show.rs)                             |
 | Rock paper scissors lizard spock       | [Rust](rust/classic-puzzle-easy/rock-paper-scissors-lizard-spock.rs)       |
 | Temperatures                           | [Rust](rust/classic-puzzle-easy/temperatures.rs)                           |
