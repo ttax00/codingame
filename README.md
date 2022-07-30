@@ -46,6 +46,7 @@
 | Shadows of the knight EP1 | [Rust](rust/classic-puzzle-normal/shadows-of-the-knight-episode-1.rs) |
 | Scrabble                  | [Typescript](typescript/src/classic-puzzle-normal/scrabble.ts)        |
 | Stock exchange losses     | [Rust](rust/classic-puzzle-normal/stock-exchange-losses.rs)           |
+| Telephone numbers         | [Rust](rust/classic-puzzle-normal/telephone-numbers.rs)               |
 | War                       | [Rust](rust/classic-puzzle-normal/war.rs)                             |
 ### [Hard](https://www.codingame.com/training/hard)
 | Problem           | Solution                                                    |
