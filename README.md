@@ -40,6 +40,7 @@
 ### [Normal](https://www.codingame.com/training/medium)
 | Problem                   | Solution                                                              |
 | ------------------------- | --------------------------------------------------------------------- |
+| Conway sequence           | [Rust](rust/classic-puzzle-normal/conway-sequence.rs)                 |
 | Death first search EP1    | [Rust](rust/classic-puzzle-normal/death-first-search-episode-1.rs)    |
 | Don't panic EP1           | [Rust](rust/classic-puzzle-normal/don't-panic-episode-1.rs)           |
 | Network cabling           | [Rust](rust/classic-puzzle-normal/network-cabling.rs)                 |
