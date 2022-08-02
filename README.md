@@ -48,6 +48,7 @@
 | Scrabble                  | [Typescript](typescript/src/classic-puzzle-normal/scrabble.ts)        |
 | Stock exchange losses     | [Rust](rust/classic-puzzle-normal/stock-exchange-losses.rs)           |
 | Telephone numbers         | [Rust](rust/classic-puzzle-normal/telephone-numbers.rs)               |
+| The fastest               | [Rust](rust/classic-puzzle-normal/the-fastest.rs)                     |
 | War                       | [Rust](rust/classic-puzzle-normal/war.rs)                             |
 ### [Hard](https://www.codingame.com/training/hard)
 | Problem           | Solution                                                    |
