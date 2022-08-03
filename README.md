@@ -17,6 +17,7 @@
 | Defibrillators                         | [Rust](/rust/classic-puzzle-easy/defibrillators.rs)                                                               |
 | Dungeons and Maps                      | [Rust](rust/classic-puzzle-easy/dungeons-and-maps.rs)                                                             |
 | Equivalent resistance circuit building | [Rust](rust/classic-puzzle-easy/equivalent-resistance-circuit-building.rs)                                        |
+| Escaping the Cat                       | [Rust](rust/classic-puzzle-easy/escaping-the-cat.rs)                                                              |
 | Firecontrol                            | [Rust](rust/classic-puzzle-easy/firecontrol.rs)                                                                   |
 | Ghost legs                             | [Rust](rust/classic-puzzle-easy/ghost-legs.rs)                                                                    |
 | Horse racing duels                     | [Rust](rust/classic-puzzle-easy/horse-racing-duels.rs)                                                            |
